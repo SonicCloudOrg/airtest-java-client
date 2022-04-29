@@ -9,18 +9,8 @@ Java CLient for Airtest
  
 ```xml
 <dependency>
-    <groupId>org.cloud.sonic</groupId>
+    <groupId>io.github.soniccloudorg</groupId>
     <artifactId>airtest-java-client</artifactId>
     <version>1.0.0</version>
 </dependency>
-``` 
-
-### Gradle
-
- - Add the dependency:
- 
-```
-dependencies {
-    implementation 'org.cloud.sonic:airtest-java-client:1.0.0'
-}
 ```
