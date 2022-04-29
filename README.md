@@ -1,6 +1,6 @@
 # airtest-java-client
 
-🎉Java CLient for [Airtest Project](https://github.com/AirtestProject).
+🎉Java Client for [Airtest Project](https://github.com/AirtestProject).
 
 ## Use in Java code
 ### Maven Central
