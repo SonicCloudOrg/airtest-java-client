@@ -1,9 +1,9 @@
 # airtest-java-client
 
-🎉Java CLient for[Airtest Project](https://github.com/AirtestProject).
+🎉Java CLient for [Airtest Project](https://github.com/AirtestProject).
 
 ## Use in Java code
-### Maven
+### Maven Central
 
  - Add the dependency:
  
@@ -14,3 +14,5 @@
     <version>1.0.0</version>
 </dependency>
 ```
+### Gradle
+Coming soon...
