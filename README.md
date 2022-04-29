@@ -1,8 +1,8 @@
 # airtest-java-client
 
-Java CLient for Airtest
+🎉Java CLient for[Airtest Project](https://github.com/AirtestProject).
 
-# Use in Java code
+## Use in Java code
 ### Maven
 
  - Add the dependency:
